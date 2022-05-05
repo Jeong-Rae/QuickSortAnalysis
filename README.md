@@ -34,6 +34,7 @@ https://user-images.githubusercontent.com/102293576/166913322-c7d17c61-2636-44c0
 ## 배열 별 소요시간 모아보기
 
 위 소요시간 그래프를 하나로 모으면 
+
 https://user-images.githubusercontent.com/102293576/166913325-65ae3b28-c1b3-4e44-b6e3-a3a5a9644e1c.png
 
 오름차순, 내림차순의 소요시간이 거의 일치하는 것을 볼 수 있다. 피벗이 중앙값으로 설정되어서 그럴 것이라 예상이 가능하다.\n
