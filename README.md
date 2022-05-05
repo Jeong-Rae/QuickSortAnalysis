@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/102293576/166913321-e867570b-f886-4214
 https://user-images.githubusercontent.com/102293576/166910917-85c099ec-5573-45b6-a2e4-e0d0e1f37946.png   
    
 위 사진과 같다. 이를 그래프로 표현하면   
-https://user-images.githubusercontent.com/102293576/166913322-c7d17c61-2636-44c0-aa23-ccf7b0f9ddc5.png   
+https://user-images.githubusercontent.com/102293576/166915247-bdf8459f-d30d-4de6-8039-205875e9056a.png
 
 ## 배열 별 소요시간 모아보기
    
