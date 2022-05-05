@@ -4,7 +4,7 @@
 
 2^n 개의 원소를 가지는 배열을 오름차순 시켜두고 피벗값을 배열의 중간값으로 잡는 방식을 사용한다.   
 이때의 결과는   
-https://user-images.githubusercontent.com/102293576/166910823-444592ca-6f2d-4141-b425-ac469475d774.png   
+<img src="https://user-images.githubusercontent.com/102293576/166910823-444592ca-6f2d-4141-b425-ac469475d774.png  width="200" height="400"/>   
    
 위 사진과 같다. 이를 그래프로 표현하면   
 https://user-images.githubusercontent.com/102293576/166913299-92039686-4dfc-4b4b-a3a8-6de96b6d6d84.png   
